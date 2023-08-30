@@ -9,7 +9,7 @@ def maximo_basico(a: float, b: float) -> float:
         - No utilizar ELSE
         - No utilizar la función max
     """
-
+dsfsdf
 
 # NO MODIFICAR - INICIO
 assert maximo_basico(10, 5) == 10
